@@ -1,3 +1,7 @@
+create database RH;
+
+use RH;
+
 CREATE TABLE tb_funcionarios(
  id BIGINT AUTO_INCREMENT, 
  nome VARCHAR(255) NOT NULL,
